@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 196 64" role="img" aria-labelledby="title">
+  <title id="title">AToM</title>
+  <!-- Logo lengkap untuk background gelap. Simbol geometris + wordmark vektor proporsional. -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="32" cy="32" rx="25" ry="11" transform="rotate(-28 32 32)" stroke="#C6F432" stroke-width="2.8"/>
+    <path d="M18.5 45 30.5 18h3L45.5 45" stroke="#F6F7F2" stroke-width="5.5"/>
+    <path d="M23.5 36h17" stroke="#F6F7F2" stroke-width="4.5"/>
+
+    <path d="M80 46 90 22h2l10 24" stroke="#F6F7F2" stroke-width="5.5"/>
+    <path d="M84 38h14" stroke="#F6F7F2" stroke-width="4.5"/>
+
+    <path d="M110 22h18" stroke="#F6F7F2" stroke-width="5.5"/>
+    <path d="M119 22v24" stroke="#F6F7F2" stroke-width="5.5"/>
+
+    <circle cx="145" cy="34" r="9" stroke="#C6F432" stroke-width="5.5"/>
+
+    <path d="M164 46V22l10 13 10-13v24" stroke="#F6F7F2" stroke-width="5.5"/>
+  </g>
+  <circle cx="55" cy="20" r="3.5" fill="#C6F432"/>
+</svg>

@@ -1,0 +1,601 @@
+[
+  {
+    "name": "1440x900",
+    "state": {
+      "viewport": [
+        1440,
+        900
+      ],
+      "overflowX": 0,
+      "minTextPx": 8,
+      "clippedText": [
+        {
+          "tag": "A",
+          "text": "Lewati ke konten utama"
+        },
+        {
+          "tag": "P",
+          "text": "Arsitektur Teknologi & Otomasi Mandiri"
+        }
+      ],
+      "navbar": {
+        "x": 112,
+        "y": 0,
+        "w": 1216,
+        "h": 72,
+        "right": 1328,
+        "display": "grid"
+      },
+      "mobileMenuButton": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0,
+        "right": 0,
+        "display": "none"
+      },
+      "desktopNav": {
+        "x": 408,
+        "y": 16,
+        "w": 624,
+        "h": 40,
+        "right": 1032,
+        "display": "flex"
+      },
+      "h1": {
+        "x": 144,
+        "y": 214,
+        "w": 596,
+        "h": 193,
+        "right": 740,
+        "display": "block"
+      },
+      "accentLine": {
+        "x": 144,
+        "y": 278,
+        "w": 596,
+        "h": 63,
+        "right": 740,
+        "display": "block"
+      },
+      "heroVisual": {
+        "x": 788,
+        "y": 255,
+        "w": 508,
+        "h": 323,
+        "right": 1296,
+        "display": "block"
+      },
+      "servicesGrid": {
+        "x": 643,
+        "y": 906,
+        "w": 653,
+        "h": 1006,
+        "right": 1296,
+        "display": "block"
+      },
+      "serviceCards": 3,
+      "portfolioScroller": {
+        "clientWidth": 1152,
+        "scrollWidth": 2632,
+        "cards": 4
+      },
+      "umkmBanner": {
+        "x": 0,
+        "y": 3409,
+        "w": 1440,
+        "h": 714,
+        "right": 1440,
+        "display": "block"
+      },
+      "affiliateCards": 2,
+      "timelineHorizontal": "grid",
+      "contactForm": {
+        "x": 779,
+        "y": 7693,
+        "w": 517,
+        "h": 587,
+        "right": 1296,
+        "display": "block"
+      },
+      "footer": {
+        "x": 0,
+        "y": 8408,
+        "w": 1440,
+        "h": 456,
+        "right": 1440,
+        "display": "block"
+      }
+    },
+    "interactions": null,
+    "consoleErrors": [],
+    "failed": []
+  },
+  {
+    "name": "1024x768",
+    "state": {
+      "viewport": [
+        1024,
+        768
+      ],
+      "overflowX": 0,
+      "minTextPx": 8,
+      "clippedText": [
+        {
+          "tag": "A",
+          "text": "Lewati ke konten utama"
+        },
+        {
+          "tag": "P",
+          "text": "Arsitektur Teknologi & Otomasi Mandiri"
+        }
+      ],
+      "navbar": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 72,
+        "right": 1024,
+        "display": "grid"
+      },
+      "mobileMenuButton": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0,
+        "right": 0,
+        "display": "none"
+      },
+      "desktopNav": {
+        "x": 200,
+        "y": 16,
+        "w": 624,
+        "h": 40,
+        "right": 824,
+        "display": "flex"
+      },
+      "h1": {
+        "x": 32,
+        "y": 214,
+        "w": 492,
+        "h": 161,
+        "right": 524,
+        "display": "block"
+      },
+      "accentLine": {
+        "x": 32,
+        "y": 270,
+        "w": 492,
+        "h": 48,
+        "right": 524,
+        "display": "block"
+      },
+      "heroVisual": {
+        "x": 572,
+        "y": 239,
+        "w": 420,
+        "h": 323,
+        "right": 992,
+        "display": "block"
+      },
+      "servicesGrid": {
+        "x": 454,
+        "y": 874,
+        "w": 538,
+        "h": 1046,
+        "right": 992,
+        "display": "block"
+      },
+      "serviceCards": 3,
+      "portfolioScroller": {
+        "clientWidth": 960,
+        "scrollWidth": 2632,
+        "cards": 4
+      },
+      "umkmBanner": {
+        "x": 0,
+        "y": 3417,
+        "w": 1024,
+        "h": 782,
+        "right": 1024,
+        "display": "block"
+      },
+      "affiliateCards": 2,
+      "timelineHorizontal": "grid",
+      "contactForm": {
+        "x": 566,
+        "y": 7854,
+        "w": 426,
+        "h": 587,
+        "right": 992,
+        "display": "block"
+      },
+      "footer": {
+        "x": 0,
+        "y": 8568,
+        "w": 1024,
+        "h": 456,
+        "right": 1024,
+        "display": "block"
+      }
+    },
+    "interactions": null,
+    "consoleErrors": [],
+    "failed": []
+  },
+  {
+    "name": "768x1024",
+    "state": {
+      "viewport": [
+        768,
+        1024
+      ],
+      "overflowX": 0,
+      "minTextPx": 8,
+      "clippedText": [
+        {
+          "tag": "A",
+          "text": "Lewati ke konten utama"
+        },
+        {
+          "tag": "P",
+          "text": "Arsitektur Teknologi & Otomasi Mandiri"
+        }
+      ],
+      "navbar": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 72,
+        "right": 768,
+        "display": "grid"
+      },
+      "mobileMenuButton": {
+        "x": 696,
+        "y": 16,
+        "w": 40,
+        "h": 40,
+        "right": 736,
+        "display": "flex"
+      },
+      "desktopNav": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0,
+        "right": 0,
+        "display": "none"
+      },
+      "h1": {
+        "x": 32,
+        "y": 198,
+        "w": 704,
+        "h": 123,
+        "right": 736,
+        "display": "block"
+      },
+      "accentLine": {
+        "x": 32,
+        "y": 241,
+        "w": 704,
+        "h": 36,
+        "right": 736,
+        "display": "block"
+      },
+      "heroVisual": {
+        "x": 104,
+        "y": 642,
+        "w": 560,
+        "h": 323,
+        "right": 664,
+        "display": "block"
+      },
+      "servicesGrid": {
+        "x": 32,
+        "y": 1510,
+        "w": 704,
+        "h": 1006,
+        "right": 736,
+        "display": "block"
+      },
+      "serviceCards": 3,
+      "portfolioScroller": {
+        "clientWidth": 704,
+        "scrollWidth": 2312,
+        "cards": 4
+      },
+      "umkmBanner": {
+        "x": 0,
+        "y": 3999,
+        "w": 768,
+        "h": 1062,
+        "right": 768,
+        "display": "block"
+      },
+      "affiliateCards": 2,
+      "timelineHorizontal": "grid",
+      "contactForm": {
+        "x": 32,
+        "y": 9693,
+        "w": 704,
+        "h": 587,
+        "right": 736,
+        "display": "block"
+      },
+      "footer": {
+        "x": 0,
+        "y": 10391,
+        "w": 768,
+        "h": 456,
+        "right": 768,
+        "display": "block"
+      }
+    },
+    "interactions": {
+      "opened": "true",
+      "closed": "false",
+      "links": 6,
+      "scrolled": 584,
+      "faq": [
+        "true",
+        "false"
+      ],
+      "formErrors": [
+        "Nama minimal 2 karakter.",
+        "Pesan minimal 10 karakter agar kebutuhan dapat dipahami."
+      ]
+    },
+    "consoleErrors": [],
+    "failed": []
+  },
+  {
+    "name": "390x844",
+    "state": {
+      "viewport": [
+        390,
+        844
+      ],
+      "overflowX": 0,
+      "minTextPx": 8,
+      "clippedText": [
+        {
+          "tag": "A",
+          "text": "Lewati ke konten utama"
+        },
+        {
+          "tag": "P",
+          "text": "Arsitektur Teknologi & Otomasi Mandiri"
+        }
+      ],
+      "navbar": {
+        "x": 0,
+        "y": 0,
+        "w": 390,
+        "h": 72,
+        "right": 390,
+        "display": "grid"
+      },
+      "mobileMenuButton": {
+        "x": 330,
+        "y": 16,
+        "w": 40,
+        "h": 40,
+        "right": 370,
+        "display": "flex"
+      },
+      "desktopNav": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0,
+        "right": 0,
+        "display": "none"
+      },
+      "h1": {
+        "x": 20,
+        "y": 182,
+        "w": 350,
+        "h": 105,
+        "right": 370,
+        "display": "block"
+      },
+      "accentLine": {
+        "x": 20,
+        "y": 220,
+        "w": 350,
+        "h": 29,
+        "right": 370,
+        "display": "block"
+      },
+      "heroVisual": {
+        "x": 20,
+        "y": 685,
+        "w": 350,
+        "h": 306,
+        "right": 370,
+        "display": "block"
+      },
+      "servicesGrid": {
+        "x": 20,
+        "y": 1520,
+        "w": 350,
+        "h": 1246,
+        "right": 370,
+        "display": "block"
+      },
+      "serviceCards": 3,
+      "portfolioScroller": {
+        "clientWidth": 350,
+        "scrollWidth": 1414,
+        "cards": 4
+      },
+      "umkmBanner": {
+        "x": 0,
+        "y": 4267,
+        "w": 390,
+        "h": 1152,
+        "right": 390,
+        "display": "block"
+      },
+      "affiliateCards": 2,
+      "timelineHorizontal": "grid",
+      "contactForm": {
+        "x": 20,
+        "y": 11027,
+        "w": 350,
+        "h": 593,
+        "right": 370,
+        "display": "block"
+      },
+      "footer": {
+        "x": 0,
+        "y": 11716,
+        "w": 390,
+        "h": 764,
+        "right": 390,
+        "display": "block"
+      }
+    },
+    "interactions": {
+      "opened": "true",
+      "closed": "false",
+      "links": 6,
+      "scrolled": 719,
+      "faq": [
+        "true",
+        "false"
+      ],
+      "formErrors": [
+        "Nama minimal 2 karakter.",
+        "Pesan minimal 10 karakter agar kebutuhan dapat dipahami."
+      ]
+    },
+    "consoleErrors": [],
+    "failed": []
+  },
+  {
+    "name": "360x800",
+    "state": {
+      "viewport": [
+        360,
+        800
+      ],
+      "overflowX": 0,
+      "minTextPx": 8,
+      "clippedText": [
+        {
+          "tag": "A",
+          "text": "Lewati ke konten utama"
+        },
+        {
+          "tag": "P",
+          "text": "Arsitektur Teknologi & Otomasi Mandiri"
+        }
+      ],
+      "navbar": {
+        "x": 0,
+        "y": 0,
+        "w": 360,
+        "h": 72,
+        "right": 360,
+        "display": "grid"
+      },
+      "mobileMenuButton": {
+        "x": 300,
+        "y": 16,
+        "w": 40,
+        "h": 40,
+        "right": 340,
+        "display": "flex"
+      },
+      "desktopNav": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0,
+        "right": 0,
+        "display": "none"
+      },
+      "h1": {
+        "x": 20,
+        "y": 182,
+        "w": 320,
+        "h": 105,
+        "right": 340,
+        "display": "block"
+      },
+      "accentLine": {
+        "x": 20,
+        "y": 220,
+        "w": 320,
+        "h": 29,
+        "right": 340,
+        "display": "block"
+      },
+      "heroVisual": {
+        "x": 20,
+        "y": 710,
+        "w": 320,
+        "h": 306,
+        "right": 340,
+        "display": "block"
+      },
+      "servicesGrid": {
+        "x": 20,
+        "y": 1544,
+        "w": 320,
+        "h": 1278,
+        "right": 340,
+        "display": "block"
+      },
+      "serviceCards": 3,
+      "portfolioScroller": {
+        "clientWidth": 320,
+        "scrollWidth": 1310,
+        "cards": 4
+      },
+      "umkmBanner": {
+        "x": 0,
+        "y": 4390,
+        "w": 360,
+        "h": 1191,
+        "right": 360,
+        "display": "block"
+      },
+      "affiliateCards": 2,
+      "timelineHorizontal": "grid",
+      "contactForm": {
+        "x": 20,
+        "y": 11575,
+        "w": 320,
+        "h": 625,
+        "right": 340,
+        "display": "block"
+      },
+      "footer": {
+        "x": 0,
+        "y": 12296,
+        "w": 360,
+        "h": 764,
+        "right": 360,
+        "display": "block"
+      }
+    },
+    "interactions": {
+      "opened": "true",
+      "closed": "false",
+      "links": 6,
+      "scrolled": 667,
+      "faq": [
+        "true",
+        "false"
+      ],
+      "formErrors": [
+        "Nama minimal 2 karakter.",
+        "Pesan minimal 10 karakter agar kebutuhan dapat dipahami."
+      ]
+    },
+    "consoleErrors": [],
+    "failed": []
+  }
+]
