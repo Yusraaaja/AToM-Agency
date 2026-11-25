@@ -10,6 +10,6 @@ export function buildWhatsAppUrl(
   number: string = siteConfig.contact.whatsappNumber,
 ): string {
   const digits = number.replace(/\D/g, "");
-  const base = digits.length > 0 ? `https://wa.me/${digits}` : "https://wa.me/";
+  const base = digits.length > 0 ? `https://wa.me/${digits}` : "https://wa.me/6288270801832";
   return `${base}?text=${encodeURIComponent(message)}`;
 }
